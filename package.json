@@ -4,7 +4,7 @@
     "email": "jeswinpk@agilehead.com"
   },
   "name": "ceramic-backend-nedb",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "NeDB backend for the ceramic ODM",
   "repository": {
     "type": "git",
